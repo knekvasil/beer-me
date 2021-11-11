@@ -1,0 +1,23 @@
+{
+  "name": "beer-me",
+  "version": "1.0.0",
+  "description": "Beer fetching app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knekvasil/beer-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knekvasil/beer-me/issues"
+  },
+  "homepage": "https://github.com/knekvasil/beer-me#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
